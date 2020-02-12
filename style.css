@@ -30,3 +30,15 @@ p{
 	font-family: Arial;
 	color: #cc6600;
 }
+.movies a{
+	text-decoration: none;
+}
+.movies a:hover{
+	text-decoration: underline;
+}
+p::first-letter{
+	font-size: 1.5em;
+}
+.moods p{
+	display: inline-block;
+}
